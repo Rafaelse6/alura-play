@@ -1,3 +1,20 @@
+<h1> AluraPlay </h1>
+
+> Status: completed ✔️
+### YouTube like project
+## Technologies used:
+
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+</table>
+
+![aluraplay1](https://github.com/user-attachments/assets/23fc2316-5e65-4160-8d5e-5968e62b5627)
+![aluraplay2](https://github.com/user-attachments/assets/6c1a483a-9989-4bbc-b46d-e1428b65201c)
+![aluraplay3](https://github.com/user-attachments/assets/fd49b90d-b327-43ac-9f3b-03d36f7d37c2)
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
